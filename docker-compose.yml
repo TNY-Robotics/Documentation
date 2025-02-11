@@ -1,0 +1,6 @@
+name: tnyrobotics-documentation
+services:
+  web:
+    build: .
+    ports:
+      - 2092:80
