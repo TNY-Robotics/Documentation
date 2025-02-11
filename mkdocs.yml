@@ -4,12 +4,13 @@ theme:
   language: fr
   name: material
   logo: assets/icon.png
+  favicon: assets/icon.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: amber
-      accent: amber
+      primary: orange
+      accent: orange
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -17,8 +18,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: amber
-      accent: amber
+      primary: orange
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
