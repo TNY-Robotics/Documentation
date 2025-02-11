@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Python Programming Introduction
+description: Learn how to program your TNY - 360 robot using Python. This guide covers prerequisites, installation, and basic programming steps.
+---
+
 # Programming your TNY - 360 in Python
 
 This section will guide you through the process of programming your TNY - 360 in Python.

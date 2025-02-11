@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Connecting to a TNY - 360
+description: Learn how to connect to your TNY - 360 using the Blocks Editor. Follow these steps to establish a connection and start programming your robot.
+---
+
 # Blocks - Connecting to a TNY - 360
 
 Now that you are on the Blocks Editor, you need to connect to your TNY - 360. This is necessary to send the code you create to the robot.

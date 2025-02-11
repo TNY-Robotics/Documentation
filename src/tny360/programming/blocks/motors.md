@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Rotating Motors
+description: Learn how to rotate the motors of a TNY - 360 robot using the available blocks in the Motors category.
+---
+
 # Blocks - Rotating motors of a TNY - 360
 
 The first thing we will try to do is to change the angle of a motor on the TNY - 360. To do this, you will use the blocks available under the **Motors** category.

@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Python Motor Control
+description: Learn how to control the motors of the TNY - 360 robot using Python. This guide covers setting absolute and relative angles, as well as smooth movements.
+---
+
 # Python - Rotating motors of a TNY - 360
 
 The first thing we will try to do is to change the angle of a motor on the TNY - 360. To do this, we will use the `setMotorAngle` method of the `Tny360` class.

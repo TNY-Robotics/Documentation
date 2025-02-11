@@ -1,3 +1,8 @@
+---
+title: Programming your TNY - 360 with Blocks
+description: Learn how to program your TNY - 360 robot using a block-based interface with our comprehensive guide.
+---
+
 # Programming your TNY - 360 with Blocks
 
 This section will guide you through the process of programming your TNY - 360 with Blocks.

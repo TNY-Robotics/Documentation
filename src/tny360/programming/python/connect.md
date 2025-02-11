@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Python - Connecting to a TNY - 360
+description: Learn how to connect to your TNY - 360 robot using Python. This guide will help you establish a connection and start programming your robot.
+---
+
 # Python - Connecting to a TNY - 360
 
 Now that you have installed all the necessary packages, you can start programming your TNY - 360 in Python.

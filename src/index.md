@@ -1,3 +1,8 @@
+---
+title: TNY Robotics | Documentation
+description: Welcome to the TNY Robotics documentation ! Here you will find all the information you need to get started with our robots, from programming to mechanics or electronics.
+---
+
 # TNY Robotics
 
 Welcome to the TNY Robotics documentation !
