@@ -13,7 +13,7 @@ Before you start programming your TNY - 360 with Blocks, you need to have the fo
 
 ## Getting started
 
-To get started, you need to open the [TNY - 360 Blocks Editor](https://tny360.projects.furwaz.com/blocks). This is a web-based tool that allows you to program your TNY - 360 using a block-based interface.
+To get started, you need to open the [TNY - 360 Blocks Editor](https://tny-robotics.com/apps/block-editor). This is a web-based tool that allows you to program your TNY - 360 using a block-based interface.
 
 ### Toolbox
 
