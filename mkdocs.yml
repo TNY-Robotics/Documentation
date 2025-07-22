@@ -6,8 +6,8 @@ site_url: https://docs.tny-robotics.com
 theme:
   language: en
   name: material
-  logo: assets/icon.png
-  favicon: assets/icon.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     # Palette toggle for light mode
     - scheme: default
