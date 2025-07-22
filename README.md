@@ -1,13 +1,19 @@
 # TNY Robotics documentation
 
 ## Installation
+
+Install the required packages specified in the `requirements.txt` file using pip:
+
 ```
-pip install mkdocs
-pip install mkdocs-material
-pip install mkdocs-glightbox
-pip install mkdocs-build-plantuml-plugin
+pip install -r requirements.txt
 ```
 
-## Usage
-Will be on port 8000 by default
-```mkdocs serve```
+## Running the server
+
+To run the server, use the following command:
+```
+mkdocs serve
+```
+
+This will start a local development server on port 8000.
+You can access it at `http://localhost:8000`.
