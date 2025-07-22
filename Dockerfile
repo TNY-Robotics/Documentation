@@ -2,7 +2,7 @@ FROM squidfunk/mkdocs-material AS build-stage
 WORKDIR /app
 COPY mkdocs.yml .
 COPY requirements.txt .
-COPY src src
+COPY docs docs
 RUN pip install -r requirements.txt
 RUN mkdocs build
 
