@@ -38,7 +38,7 @@ theme:
     - navigation.path
     - content.code.copy
     - content.code.annotate
-    # - navigation.expand
+    - navigation.expand
     # - navigation.footer
 
 extra:
